@@ -94,7 +94,7 @@ If you want custom creatures removed, do this.
            string name = base.GetType().Name;
            if (__________)
            {
-               UnityEngine.Object.Destroy(base.gameObject);
+               base.gameObject.SetActive(false);
                return;
            }
            if (this.initialCuriosity != null && this.initialCuriosity.length > 0)

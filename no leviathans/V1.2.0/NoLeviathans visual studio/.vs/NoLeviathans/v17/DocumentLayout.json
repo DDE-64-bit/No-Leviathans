@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\donal\\Desktop\\NoLeviathans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C21DAA-EB71-4F07-9344-1624413979A1}|NoLeviathans.csproj|c:\\users\\donal\\desktop\\noleviathans\\creaturepatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C21DAA-EB71-4F07-9344-1624413979A1}|NoLeviathans.csproj|solutionrelative:creaturepatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C21DAA-EB71-4F07-9344-1624413979A1}|NoLeviathans.csproj|C:\\Users\\donal\\Desktop\\NoLeviathans\\noleviathansmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C21DAA-EB71-4F07-9344-1624413979A1}|NoLeviathans.csproj|solutionrelative:noleviathansmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C21DAA-EB71-4F07-9344-1624413979A1}|NoLeviathans.csproj|C:\\Users\\donal\\Desktop\\NoLeviathans\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C21DAA-EB71-4F07-9344-1624413979A1}|NoLeviathans.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\NoLeviathans\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\NoLeviathans\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:50:00.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoLeviathansMod.cs",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\NoLeviathans\\NoLeviathansMod.cs",
+              "RelativeDocumentMoniker": "NoLeviathansMod.cs",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\NoLeviathans\\NoLeviathansMod.cs",
+              "RelativeToolTip": "NoLeviathansMod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:54:12.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreaturePatches.cs",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\NoLeviathans\\CreaturePatches.cs",
+              "RelativeDocumentMoniker": "CreaturePatches.cs",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\NoLeviathans\\CreaturePatches.cs",
+              "RelativeToolTip": "CreaturePatches.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:01:29.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
