@@ -17,7 +17,7 @@ If you want custom creatures removed, do this.
 
 1. Download the original file (or use the one in your Subnautica folder) and download [dnSpy](https://dnspy.co/download/).
 
-2. Open dnSpy. Press `CTRL + O` and select the `Assembly-CSharp.dll` from your Subnautica folder (or the one you downloaded).
+2. Open dnSpy. Press `CTRL + O` and select the `Assembly-CSharp.dll` from your Subnautica folder.
 
 3. In the search bar, enter `Creature` (see picture below). Make sure you select the first `Creature` you find. Be sure it has a capital `C`.
 
