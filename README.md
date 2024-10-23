@@ -1,6 +1,15 @@
 # No Leviathans (or Any Other Creature)
 
 If you want to remove all [Leviathan-class organisms](https://subnautica.fandom.com/wiki/Leviathan_Class_Organisms) from your Subnautica game, this guide is for you.
+<br>
+<br>
+<hr>
+
+### **The installation process down here is only for the older versions and if you want to customize the game.**
+
+To use the newer version either download it from the releases tab or [here](https://www.nexusmods.com/subnautica/mods/1722?tab=files).
+<br>
+<hr>
 
 ## Installation
 
